@@ -14,8 +14,7 @@ This builds an application similar to Reddit (called Micro-Reddit), where a user
 - run bundle install.
 - run ```rails c```
 - Use ```Post.create, User.create, Comment.create``` to create new posts, users and comments respectively.
-- Refer [!here](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails) to find more on how the 
-- associations between the models work.
+- Refer [here](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails) to find more on how the associations between the models work.
 
 ## Authors
 
